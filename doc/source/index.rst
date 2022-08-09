@@ -12,6 +12,7 @@ EVE Tools Guide
    :caption: Contents
 
    esi_basics/index
+   developer/index
 
 
 .. Indices and tables
