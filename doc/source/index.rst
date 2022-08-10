@@ -7,17 +7,10 @@ EVE Tools Guide
 =====================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :numbered:
    :caption: Contents
 
    esi_basics/index
    developer/index
-
-
-.. Indices and tables
-.. ==================
-
-.. * :ref:`genindex`
-.. * :ref:`modindex`
-.. * :ref:`search`
+   whatsnew/index
